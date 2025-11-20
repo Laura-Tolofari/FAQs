@@ -1,5 +1,7 @@
 body{
   background-color: hsl(275, 100%, 97%);
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 @font-face {
   font-family: 'WorkSans';
